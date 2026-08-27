@@ -1,41 +1,27 @@
 <p align="center">
-  <img src="https://github.com/Ballbon/Teerapat-Ngamkana/blob/main/getstudentimage.jpg?raw=true" width="180" alt="Teerapat Ngamkana" />
+  <img src="https://github.com/Ballbon/Teerapat-Ngamkana/blob/main/getstudentimage.jpg?raw=true" width="180" style="border-radius:50%;" alt="Teerapat Ngamkana" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Teerapat Ngamkana</h1>
 
-<p align="center">
-  <strong>Frontend Developer | QA Automation Enthusiast | Lifelong Learner</strong>
-</p>
-
-<p align="center">
-  I build responsive web and mobile experiences and enjoy making software more reliable through testing.
-</p>
-
-<p align="center">
-  <a href="mailto:teerapatngamkana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-teerapatngamkana%40gmail.com-b47b42?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2f2a24" alt="Email" />
-  </a>
-  <a href="https://github.com/Ballbon">
-    <img src="https://img.shields.io/badge/GitHub-Ballbon-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" alt="GitHub" />
-  </a>
-</p>
+🎯 Frontend Developer | Lifelong Learner | Tech Enthusiast
+"Passionate about creating responsive and user-friendly web applications and improving software quality through automation testing."
 
 🚀 About Me
 
-🎓 Information Technology graduate from Maejo University
+👨‍💻 Information Technology graduate from Maejo University
 
 💼 Completed an internship as a Frontend & Mobile Developer Intern at Fakduai Logistics & Digital Platform Co., Ltd.
 
-🧩 Experienced in building responsive web features with Vue 3, TypeScript, and Vite
+🌱 Experienced with Vue 3, TypeScript, JavaScript, Vite, and responsive web development
 
-🔌 Familiar with REST API integration, form submission, loading states, and error handling
+🔌 Familiar with RESTful API integration, form submission, loading states, and error handling
 
-🧪 Hands-on experience creating and executing automated tests with Playwright
+🧪 Hands-on experience with Playwright automation testing and software quality assurance
 
-🛠️ Familiar with software testing, test case design, defect reporting, and data-driven testing
+💡 Passionate about building projects that improve user experience
 
-🤝 Comfortable working in a team with Git, GitHub, branch-based development, code merging, and Agile collaboration
+🤝 Strong in teamwork, communication, Git/GitHub collaboration, and problem-solving
 
 📍 Based in Chachoengsao, Thailand
 
@@ -43,7 +29,7 @@
 
 Frontend & Mobile Developer Intern
 
-Fakduai Logistics & Digital Platform Co., Ltd. · April–July 2026
+Fakduai Logistics & Digital Platform Co., Ltd. | April - July 2026
 
 Developed responsive web application features using Vue 3, TypeScript, and Vite.
 
@@ -59,71 +45,125 @@ Created and executed Playwright automation tests to verify key application workf
 
 🛠️ Tech Stack & Tools
 
-Frontend & Development
+Category
+
+Primary (Very Good)
+
+Good
+
+Exploring (Fair)
+
+Frontend
+
+ 
+  
+  
+ 
+
+ 
+  
+ 
 
 
 
+QA & Testing
+
+ 
+ 
+
+ 
+ Functional Testing 
+ UI Testing 
+ Test Case Design
+
+Allure Reports 
+ Data-Driven Testing 
+ Defect Reporting
+
+Database
 
 
 
+SQL Queries 
+ phpMyAdmin
 
+-
 
+API & Tools
 
-QA & Test Automation
+ 
+ 
 
+REST API Integration 
+ 
 
+Agile Collaboration
 
+📚 Featured Projects
 
+Project
 
-Functional Testing · UI Testing · Test Case Design · Test Execution · Defect Reporting · Data-Driven Testing · Allure Reports · Screenshot Capture on Failure
+Tech Stack
 
-Database, API & Collaboration
+Highlight
 
+Link
 
+🎓 Community IT Training
 
+HTML, CSS, GitHub Copilot
 
+Volunteer project teaching web development and AI-assisted development to high school students
 
-
-REST API Integration · MySQL · phpMyAdmin · GitHub · Visual Studio Code
-
-📚 Selected Projects
+Profile
 
 🍲 Shabu Restaurant Management System
 
-Spring MVC · JSP · MySQL · Git/GitHub
+Spring MVC, JSP, MySQL
 
-Developed a web-based restaurant management system for table reservations, QR-based food ordering, order tracking, billing, and employee management.
+Table reservations, QR ordering, order tracking, billing, employee management, and relational database design
 
-Designed relational database structures for customer, menu, table, order, and payment data.
-
-Collaborated with team members using Git and GitHub for version control.
-
-🎓 AI-Assisted Website Workshop
-
-HTML · CSS · GitHub Copilot · Saraphi Pittayakom School
-
-Conducted a hands-on web development workshop for Grade 10–12 students.
-
-Taught basic HTML/CSS and AI-assisted development with GitHub Copilot.
-
-Prepared demonstrations, learning materials, and practical exercises.
+Profile
 
 🧪 Automated Web Testing Practice
 
-Robot Framework · SeleniumLibrary · Data-Driven Testing · Allure
+Robot Framework, SeleniumLibrary, Data-Driven Testing, Allure
 
-Created automated test cases for login and shopping workflows on SauceDemo.
+Automated login and shopping workflow tests on SauceDemo with expected-result validation and failure screenshots
 
-Covered valid, invalid, empty-field, locked-user, and other input scenarios.
+Profile
 
-Used expected results to determine test status and captured screenshots when tests failed.
+📱 Pinto Social Mobile Application
 
-📊 GitHub Stats
+Vue 3, TypeScript, Vite, REST API
+
+Internship project involving feature improvements, UI/logic/API bug fixing, and Playwright automation testing
+
+Profile
+
+📊 Stats & Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ballbon&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" alt="Teerapat's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballbon&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Ballbon&theme=rose_pine&hide_border=true" alt="GitHub streak" />
-</div>
 
-⭐️ “I am eager to grow as a developer and contribute to building high-quality web applications.”
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ballbon&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballbon&layout=compact&theme=rose_pine&hide_border=true&v=2" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Ballbon&theme=rose_pine&hide_border=true&v=2" />
+
+</div>
+---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:teerapatngamkana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-teerapatngamkana%40gmail.com-b47b42?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2f2a24" alt="Email" />
+  </a>
+  <br>
+  <a href="https://github.com/Ballbon">
+    <img src="https://img.shields.io/badge/GitHub-Ballbon-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" alt="GitHub" />
+  </a>
+</p>
+
+⭐️ "I am eager to grow as a developer and contribute to building high-quality web applications and reliable software."
